@@ -1,4 +1,2 @@
 # test
-
-$$ \int^{1}_{0}dx $$
-\sin{x}
+\sin^2(x)
